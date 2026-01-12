@@ -1,1 +1,2 @@
 git-merge : Join two or more development histories together
+git-rebase : Rejoue tes commits un par un sur une autre branche (comme si tu les avais faits après). Résultat : un historique linéaire et propre, sans commit de merge 
